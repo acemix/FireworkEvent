@@ -1,0 +1,8 @@
+name: FireworkEvent
+version: '0.1'
+main: bilzox.acemix.studios.FireworkEvent
+api-version: '1.21'
+
+depend:
+  - ProtocolLib
+  - WorldGuard
